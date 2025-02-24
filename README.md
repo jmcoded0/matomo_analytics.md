@@ -1,4 +1,3 @@
-
 # jmcoded.site - Matomo Analytics Implementation
 
 This repository documents the implementation of Matomo analytics on the website `http://jmcoded.site`.
@@ -9,7 +8,7 @@ This project focuses on setting up Matomo analytics to track website traffic and
 
 ## Documentation
 
-* [Matomo Analytics Setup](matomo_analytics.md) - Detailed documentation of the Matomo analytics setup process.
+* <a href="https://github.com/jmcoded0/matomo_analytics/blob/main/matomo_analytics.md" target="_blank" rel="noopener">View Matomo Analytics Documentation on GitHub</a> - Detailed documentation of the Matomo analytics setup process.
 
 ## Key Features
 
@@ -26,9 +25,8 @@ This project focuses on setting up Matomo analytics to track website traffic and
 
 ## Getting Started
 
-To view the detailed documentation, please refer to the [Matomo Analytics Setup](matomo_analytics.md) document.
+To view the detailed documentation, please refer to the [Matomo Analytics Setup]<a href="https://github.com/jmcoded0/matomo_analytics/blob/main/matomo_analytics.md" target="_blank" rel="noopener">View Matomo Analytics Documentation on GitHub</a> document.
 
 ## Author
 
 [Johnson Mathew]
-
